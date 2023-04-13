@@ -1,17 +1,17 @@
 # Codenation Challenge
-O challenge foi criado para a seleção do programa AceleraDev. 
+The challenge was created for the selection of the AceleraDev program.
 
-# Objetivo
-Descriptografar uma mensagem recebida através da API do Codenation, utilizando o número de casas recebido também na response.
+# Objective
+Decrypt a message received through the Codenation API using the number of positions received in the response.
 
-## Criptografia de Júlio César
-A Criptografia utilizada pelo grande líder militar romano Júlio César para comunicar com os seus generais se baseia na substituição da letra do alfabeto avançado um determinado número de casas. Por exemplo, considerando o número de casas = 3:
+## Julius Caesar's Cryptography
+The Cryptography used by the great Roman military leader Julius Caesar to communicate with his generals is based on the substitution of each letter of the alphabet with the letter advanced a certain number of positions. For example, considering the number of positions = 3:
 
 Normal: a ligeira raposa marrom saltou sobre o cachorro cansado
 
-Cifrado: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
+Crypted: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
 
-## Tecnologias usadas
+## Tech stack
 * Java
 * Jackson
 * Spring Boot
